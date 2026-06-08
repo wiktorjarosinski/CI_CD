@@ -13,7 +13,7 @@ pipeline {
         APP_VERSION  = '1.0.0'                                        // Wersja aplikacji
         DEPLOY_ENV   = 'staging'                                      // Środowisko docelowe
         REPO_URL     = 'https://github.com/wiktorjarosinski/CI_CD.git' // URL repozytorium
-        NOTIFY_EMAIL = 'xwiciux13@studia.com'                         // Adres powiadomień
+        NOTIFY_EMAIL = ''                         // Adres powiadomień
     }
 
     stages {
