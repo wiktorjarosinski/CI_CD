@@ -1,6 +1,6 @@
 // ============================================================
 // Jenkinsfile – Zaawansowany pipeline CI/CD
-// Projekt: CI_CD | Autor: Wiktor Jarosiński
+// Projekt: CI_CD
 // Opis: Pipeline z obsługą błędów, powiadomieniami e-mail
 //       i integracją z repozytorium GitHub
 // ============================================================
